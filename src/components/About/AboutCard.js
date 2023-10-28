@@ -8,33 +8,30 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
-            <br /> I am a final year student pursuing an Integrated MSc (IMSc)
-            in Maths and Computing at BIT Mesra.
-            <br />
-            Additionally, I am currently employed as a software developer at
-            Juspay.
-            <br />
-            <br />
-            Apart from coding, some other activities that I love to do!
+          Bonjour à tous, je suis <span className="purple">SANKARA David Charles Yamba </span> de 
+          <span className="purple"> OUAGADOUGOU.</span>
+          <br /> J'ai un niveau d'étude Licence en Ingénierie Logiciel.<br /> 
+          De plus, je suis actuellement employé a Cetelcom en tant que stagiaire en  développeur de logiciels .
+          <br />
+          <br /> 
+          En dehors de la programmation, voici quelques autres activités que j'aime!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Lecture
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Sport
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Football / FC BARCELONE
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+          "Aspire à créer des choses qui font la différence !{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">David</footer>
         </blockquote>
       </Card.Body>
     </Card>
